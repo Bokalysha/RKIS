@@ -19,7 +19,7 @@ _Вариант №2: Персона, рабочий, инженер, служа
 
 **Сборка проекта:**
 1. Загрузить содержимое папки [Prac_1](https://github.com/Bokalysha/RKIS/tree/main/Practice/Prac_1/src)
-2. Проверить наличие на машине [JDK](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
+2. Проверить наличие [JDK](https://www.oracle.com/java/technologies/downloads/#jdk17-windows) на машине
 ```
 java -version
 ```
