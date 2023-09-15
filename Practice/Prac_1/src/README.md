@@ -18,16 +18,16 @@
 _Вариант №2: Персона, рабочий, инженер, служащий._
 
 **Сборка проекта:**
-1. Загрузить содержимое папки [Prac_1](https://github.com/Bokalysha/RKIS/tree/main/Practice/Prac_1/src)
-2. Проверить наличие [JDK](https://www.oracle.com/java/technologies/downloads/#jdk17-windows) на машине
+1. Загрузить содержимое папки [Prac_1](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Bokalysha/RKIS/tree/main/Practice/Prac_1/src)
+2. Перейдя в дирректорию, в которой находится работа, проверить наличие [JDK](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 ```
 java -version
 ```
-3. Перейдя в дирректорию, в которой находится работа, скомпилируйте проект
+3. Cкомпилировать проект
 ```
 javac -encoding UTF-8 *.java
 ```
-4. Запустите программу
+4. Запустить программу
 ```
 java Main
 ```
