@@ -99,12 +99,12 @@ public class Person {
      */
     @Override
     public String toString() {
-        return "firstName='" + firstName
-                + ", secondName=" + secondName + '\''
-                + ", adress=" + adress
+        return "firstName= " + firstName
+                + ", secondName= " + secondName
+                + ", adress= " + adress
                 + ", age=" + age
-                + ", height=" + height
-                + ", weight=" + weight
+                + ", height= " + height
+                + ", weight= " + weight
                 + '\n';
     }
 
