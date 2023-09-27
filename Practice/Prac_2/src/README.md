@@ -19,16 +19,16 @@
 _Вариант №2: Магазин._
 
 **Сборка проекта:**
-1. Загрузить содержимое папки [Prac_1](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Bokalysha/RKIS/tree/main/Practice/Prac_1/src)
-2. Перейдя в дирректорию, в которой находится работа, проверить наличие [JDK](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
+1. Загрузить содержимое папки [Prac_2](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Bokalysha/RKIS/tree/main/Practice/Prac_2/src)
+2. Перейдя в дирректорию, в которой находится работа, проверить наличие [Maven](https://maven.apache.org/download.cgi)
 ```
-java -version
+mvn -version
 ```
 3. Cкомпилировать проект
 ```
-javac -encoding UTF-8 *.java
+mvn compile
 ```
 4. Запустить программу
 ```
-java Main
+mvn exec:java
 ```
